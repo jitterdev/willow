@@ -1,0 +1,7 @@
+{
+    "cost":1,
+    "disabled":false,
+    "cast_at_position":["particle minecraft:campfire_cosy_smoke ~ ~ ~ 0.1 0.1 0.1 0.015 100"],
+    "cast_on_entity":[],
+    "cast_on_item":[]
+}

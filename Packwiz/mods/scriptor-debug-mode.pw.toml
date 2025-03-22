@@ -1,0 +1,13 @@
+name = "Scriptor Debug Mode"
+filename = "scriptor-debug-mode-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fhq3O3Hx/versions/d8jX0ZbC/scriptor-debug-mode-2.1.jar"
+hash-format = "sha512"
+hash = "10b137e4b2d3878116d8c61c757fac97fb3b66613527f1b1444dbc3e2366622c53851f56496b4cceeea2da68ea8895aa1d09d3e5fc1d4b66ff7c2184f0bdc8cc"
+
+[update]
+[update.modrinth]
+mod-id = "Fhq3O3Hx"
+version = "d8jX0ZbC"

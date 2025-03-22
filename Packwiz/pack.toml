@@ -1,0 +1,13 @@
+name = "willowacademy"
+author = "jitter, vibriwhisker, silphn"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c114fa61583a7d590cf55ea1056e285fb415008a30a4ab4358329ce845eed338"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
