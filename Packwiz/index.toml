@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "de1565b000adfa633681f6255ea8078db066f422f5dcdcd9584b5fa3eb7f8922"
+hash = "1f4b3dbbcd463886d3ff96dc65163c9372440414f39bf77969d30a4e3ca4ecb7"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -29,10 +29,6 @@ file = "config/modernfix-mixins.properties"
 hash = "1e62619feacbdfbaf89ac0d170837a062d1ac9cfe30e1faf4feb1d01400a420a"
 
 [[files]]
-file = "config/mythicmetals-config.json5"
-hash = "642d039ef974a8a282ce4f36f1864afe42019dfcd2c1321fa09d65705725f7fb"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -47,6 +43,10 @@ hash = "60c217fe0e9cb72cef8fcb2b51cfa84fd284fd06f9ace65470a71881d8eecaeb"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/shields.json"
 hash = "1e2ab136595f40353c0b4434a031f08fafe519cb0c298225c3ef0c0fd234f6c5"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/fantasy weapons x better combat.zip"
+hash = "9cb54c6e72c117597de2fc62ef7c1b9b07565bd2be9772d32eece2af3f759087"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/activator_rail.json"
@@ -87,14 +87,6 @@ hash = "f3b2b95f345d076e6b0a1ba3e456c12ba9a1c0d4006d5dd53d286456b60d1bee"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/resourcepacks/fixed fd overlay.zip"
-hash = "09f7df4d04bffe6c13eef64ba6bc0129e1bae583ec4c080d4b813b47f7ea29d4"
-
-[[files]]
-file = "config/raised.json"
-hash = "7e9f4e0108de483fdbb95409025dfa40248008a66824cc738cfa9dc456bea756"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -314,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "611eabdbd20a918d55e648b024d6c961fd6774de3ce014739871886d1bebd131"
-metafile = true
-
-[[files]]
-file = "mods/amarite.pw.toml"
-hash = "b7e10696cbd12ed68a16238fd72d8af097db667ad0cf978a75509baeebb90ab1"
 metafile = true
 
 [[files]]
@@ -587,11 +574,6 @@ hash = "ffeca7f1daabe2d0296fde7b76f502a4cbb6476859c5e14b57194ec75fcbdb3a"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "153760712f6fb83603c13335eb1e2156fcfa7c530a1fecd49e22241a2d4dc22e"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "39de21499aaa1888f7a89457de49e5f3a05496deaeb0e52be1f95dc418827470"
 metafile = true
@@ -627,6 +609,11 @@ hash = "35e0846353a9f68f9a59d983ff52009b46f79a8c3de3ef4888abd0467f7a4c0f"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "2a08c1c8c0c07f55d0c315a38e338f6458ca7abb50e3692e11482213cabfefe4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a116fba41450195d1941b326eb0f9f0137fb3bce9312ffac55308dd243a21e02"
 metafile = true
@@ -659,6 +646,16 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "e915cfcfab5d750c8c871038be740c1fb7331b3d21ceb7a733e21f8a61b6573c"
+metafile = true
+
+[[files]]
+file = "mods/fantasy_armor.pw.toml"
+hash = "89341f5208f77c7eb2a7d29e92f704eeea0fc937df3b9b1a78a259cb383ddbe6"
+metafile = true
+
+[[files]]
+file = "mods/fantasy_weapons.pw.toml"
+hash = "c8dc2ff431b6fc41eaa86dbc5c1fa17c50cdf796a0787b5fe038051c56271c57"
 metafile = true
 
 [[files]]
@@ -1044,11 +1041,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e67b646a37b34c077b5a99001d22b8eee964320a79c8bb7a83dc25ce851f8457"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "ee40bcf0cfdbb04c5867b6678af399383bdf7e2c1ecee8b8f4b2004f3d110505"
 metafile = true
 
 [[files]]
