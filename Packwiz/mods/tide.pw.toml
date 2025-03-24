@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/die1AF7i/versions/bAiIze17/Tide-fabric-1.20.1-1.5.0.jar"
-hash-format = "sha1"
-hash = "c70279d21b66e0d0b56113541c7719bdc25b06ce"
+hash-format = "sha512"
+hash = "180cead329149f0707acd56ab6e64198c71ab1070ab8d5357f9628b1b1f8321a7be17ff79ca5117d55b5a489694ef9608b721ea42f492a3e815a87619c66858e"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "item": "archers:flint_spear",
+      "affected_slots": [
+        "mainhand"
+      ],
+      "attribute_overrides": [
+        {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ],
+      "unbreakable": false,
+      "force_unbreakable": false
+    },
+    {
+      "item": "archers:iron_spear",
+      "affected_slots": [
+        "mainhand"
+      ],
+      "attribute_overrides": [
+        {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ],
+      "unbreakable": false,
+      "force_unbreakable": false
+    },
+    {
+      "item": "archers:golden_spear",
+      "affected_slots": [
+        "mainhand"
+      ],
+      "attribute_overrides": [
+        {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ],
+      "unbreakable": false,
+      "force_unbreakable": false
+    },
+    {
+      "item": "archers:diamond_spear",
+      "affected_slots": [
+        "mainhand"
+      ],
+      "attribute_overrides": [
+        {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ],
+      "unbreakable": false,
+      "force_unbreakable": false
+    },
+    {
+      "item": "archers:netherite_spear",
+      "affected_slots": [
+        "mainhand"
+      ],
+      "attribute_overrides": [
+        {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ],
+      "unbreakable": false,
+      "force_unbreakable": false
+    }
+  ],
+  "CONFIG_VERSION": 2
+}

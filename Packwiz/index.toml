@@ -158,27 +158,27 @@ hash = "f39a45622fdf9725ef50bbaf777aa3dc8eefff6d72d8530ae6febd545f0884a4"
 
 [[files]]
 file = "kubejs/README.txt"
-hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/diamond_twinblade.json"
-hash = "ea2620edca0d9e3f95b86a1db12fede7f4c255d1bd5a60d46263a6721e8e2ffb"
+hash = "71113638f42bdef21f393c45370e6f6fd61b2fec541410bf46a07a8fe1b0c604"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/golden_twinblade.json"
-hash = "a458ff430cb5ddf015827859f4c16920c60cb7c52786df0b52c059f50a6b01d2"
+hash = "16cbf4595634790c68d6e0e9fcd2f1a7d6d4f42f986a5534f0853443014d8f66"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/iron_twinblade.json"
-hash = "8aa07ce25bca65f96e2a7b7d69bdc83179faa68d0e7e155cf81e30090a1d9c46"
+hash = "58f87ce7c9f1a962d7b6342e3f6b4d39fde92af23c080865dea498a40b2b4957"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/netherite_twinblade.json"
-hash = "0d6c898bdf27a44c9434355384f3edfb661061cfc268001565f68896dd119ceb"
+hash = "48601fc6a1e3f8dfc549727fdafb5f3a7177d2d897432a35914084c37489e592"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/template_twinblade.json"
-hash = "043159a859d3fe8ac4f1b4304dd3b656d380a730e8311dc70fd50c38d3d8231b"
+hash = "a60747443b2dd79d34ec5f23c759bfca4db4f878bf5a1c931a4cd8178b605b71"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -206,67 +206,67 @@ hash = "7cbd3009b2e5c0a8816716f7390255e83047c6787cc40fa41a0c08743857bf8b"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
-hash = "9725c163b6f8f236927d1be799a9d3da80176f05e6ea87c0eea812d5ba41f2e9"
+hash = "db05b9155137afcb64a7afc2e0992ab9a644d9172e2a502d3173be2bd9ca30b6"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "d4fac24b5578969d8a7225082c797c9bcf4e45d47fb502e5c034c8d8a6f65177"
+hash = "911bed3bfe49791226f563d36d45b86390e38b93a47f947eae5e8e5975dcda72"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "8eee75bcf3a09e37ed20188b9cd02854f6dd542c3eb23d6cb2ddd69440238368"
+hash = "2ba12b7110478f9cf2ccf7143ff21687b8cc9cf2318875427b7ee4e7286ecb42"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "ee8d1dfd96063c90897c837efc266e20278f07fbb90ad4a8ade1841a76cce96c"
+hash = "eb0bfaed60482e4e159ff4e2452cc098de57689f7cc82b4c9d9f112548173da6"
 
 [[files]]
 file = "kubejs/data/kubejs/scriptor/actions/fireworks.json"
-hash = "de4726cdd97620b89a9a905f1a98361368f27787054c1a26c13534ff2fa08a51"
+hash = "4aa088da33144ff57cac94392bb8c8792e8a7b34298a8bc8d6500f16c0820611"
 
 [[files]]
 file = "kubejs/data/kubejs/scriptor/actions/smoke.json"
-hash = "5be28ebcf7d262fa2e3795019177ad752b90f376a1f20e681055a9e2ea24b184"
+hash = "8c3960fc61fc5e999996caad0633907e4e75418f15a9cbd885f99e7cf6773394"
 
 [[files]]
 file = "kubejs/data/kubejs/spell_assignments/basic_wand.json"
-hash = "b7cb855d48235ae9c97329c39225e01b6ae862030f09fd5e67d7c3065a76da86"
+hash = "0b7b2e3357a7ec60b0b4db593e06e2f55958408c768991403ac0c8c24d74d92f"
 
 [[files]]
 file = "kubejs/data/kubejs/weapon_attributes/diamond_twinblade.json"
-hash = "a98855dbeaa0a43153b21aca644f5a78039312b6b3b08fcda7de8baacc3a5ec3"
+hash = "7d429b7f203c330ee8c39b08a89c4ce53eef679b8b88613e65388425ea522318"
 
 [[files]]
 file = "kubejs/data/kubejs/weapon_attributes/golden_twinblade.json"
-hash = "a98855dbeaa0a43153b21aca644f5a78039312b6b3b08fcda7de8baacc3a5ec3"
+hash = "7d429b7f203c330ee8c39b08a89c4ce53eef679b8b88613e65388425ea522318"
 
 [[files]]
 file = "kubejs/data/kubejs/weapon_attributes/iron_twinblade.json"
-hash = "a98855dbeaa0a43153b21aca644f5a78039312b6b3b08fcda7de8baacc3a5ec3"
+hash = "7d429b7f203c330ee8c39b08a89c4ce53eef679b8b88613e65388425ea522318"
 
 [[files]]
 file = "kubejs/data/kubejs/weapon_attributes/netherite_twinblade.json"
-hash = "a98855dbeaa0a43153b21aca644f5a78039312b6b3b08fcda7de8baacc3a5ec3"
+hash = "7d429b7f203c330ee8c39b08a89c4ce53eef679b8b88613e65388425ea522318"
 
 [[files]]
 file = "kubejs/server_scripts/miscVfx.js"
-hash = "6c9f13a50235bbdb336b562abb5f3dca0ce769220653ce58fdcf5034b542034a"
+hash = "6c944093f23554af31c071d0882f0c1cbcb1732979381b88b8cf47b8629f6f7a"
 
 [[files]]
 file = "kubejs/server_scripts/onhurtEffects.js"
-hash = "0ff40a39815d482dabdb6d1db4d2c64cdb76aee0007424a6a4fe4d10a0464738"
+hash = "3d87db89b8c440b4b9202c09d47faaadcadf6d4e724d51ca00a18fe6c707f634"
 
 [[files]]
 file = "kubejs/server_scripts/spellShout.js"
-hash = "3e338a53b4b328a6dd090f16b6a8010c3ee016a4b230010b78e3ff1564b363a1"
+hash = "8be94af7003bced475be61d81ab92a3e25cd388c3f96ee1242e9b8f7440499f2"
 
 [[files]]
 file = "kubejs/startup_scripts/registerEffects.js"
-hash = "9735c41792bf0c0f24daf1b848b6221f31a4ab506c8ba747ae9d2297cf64db00"
+hash = "d986cfa8ce3d0e7dde62c2ff5823b3546ae6d12594f0e276adc3a68447884fdb"
 
 [[files]]
 file = "kubejs/startup_scripts/registerItems.js"
-hash = "2f21c5725d86e2851113c8c6883fbf9f9daec7e0511db41addbdfb9aed53107e"
+hash = "95184f45acefbdf5c6a2e0dea62860437e53b717f7f0e3b39f299f4696486b19"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -459,8 +459,13 @@ hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
 metafile = true
 
 [[files]]
+file = "mods/cia.pw.toml"
+hash = "e7e87bffcf5ee06ac78e1d6af8a2d060df55eb3c41f360f5b25e1f11446c6dd8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -620,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
-hash = "cff1d4e09bd4808c3fbc020f861f07a3a889d87d575d6b02a95c53396f633b42"
+hash = "38e5960d9212b882dcdc59e47e45944e8b1417b5bad07028da1ff54c86215dae"
 metafile = true
 
 [[files]]
@@ -725,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "3ee0016ee4ed5c01126c154f3dec8756ba1cc1cb31107fc46f42c359f69568ed"
+hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
@@ -774,6 +779,11 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "cd011c9a887284d4d57753fe9c001a82f199f44b32152b2a836c69525ff0abd0"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
 metafile = true
@@ -795,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "424ec31aec85a288c85f101fd5f05c8b02bffbb0215d7e1c06502538139278e8"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
@@ -825,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestonelib.pw.toml"
-hash = "24a0dec96a3e2f26d0c7584edc86b0f117d846b9123b8401bf61dac30b693df8"
+hash = "b42622e3f22f315c30d843e874a2d91d9379ceb5e19861c5393552ecacc42753"
 metafile = true
 
 [[files]]
@@ -920,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
@@ -1015,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
@@ -1025,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
-hash = "265b7fd2d0113e1d01f57662c6bad2ec962e1bdfa117f2edcdbb285d2ef097d1"
+hash = "dab6a10080d3eac8fc975616ca9745e9b66391d7bec03766e630da247b6d4293"
 metafile = true
 
 [[files]]
@@ -1115,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/scriptor-debug-mode.pw.toml"
-hash = "e7c31cf740b2186bc6aede67612093b7f5db7166fdc2631cd0016b6ed2411ca2"
+hash = "bf1c1d3eafac25602b25594b7faff89e191ad913d57b940761577c7dfb7dd8bc"
 metafile = true
 
 [[files]]
@@ -1135,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/sitting+.pw.toml"
-hash = "4a458fa7ebcaf56367c64d2867ed1a9727929922c0f2c5d89e513cbb79ad8ba7"
+hash = "d9e88ab888dec3c75a3ae8cf629e9e9bd182af27cf057a6ff38ce237d43da0cd"
 metafile = true
 
 [[files]]
@@ -1260,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "4ea71c165ba45ac636a754ea09d894cdd35138245c03915c5af705154c7c7bed"
+hash = "bdab3b10d9f65467349cf160c0eadf7ec41f45b415d8316cada6193a3ef4615b"
 metafile = true
 
 [[files]]
